@@ -1,9 +1,9 @@
-vCard - Personal Portfolio
+mCard - Personal Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Stanley Femi
+stanely femi
 Web developer
 
 Show Contacts
